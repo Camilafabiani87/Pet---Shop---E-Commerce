@@ -1,0 +1,147 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+nav{
+    min-height: 13vh;
+    padding: 0 !important;
+}
+#maincontac{
+    background-image: url(https://thumbs.dreamstime.com/z/impresiones-de-la-pata-17179448.jpg);
+ }
+h1{
+    margin-left: 12.42%;
+}
+.navbar{
+    background-color: #967E76 !important;
+    opacity: 0.9;
+}
+
+.navbar-collapse {
+    flex-grow: 0 !important;
+}
+
+.navbar a, .navbar h1{
+    color: #FFFFFF;
+}
+
+.logo {
+    height: 60px;
+    width: 70px;
+}
+
+.line {
+    background-color: #967E76;
+    width: 100%;
+    padding: 1px;
+}
+
+main{
+    background-color: #EEE3CB;
+    min-height: 80vh;
+}
+
+.img-fluid {
+    object-fit: cover;
+    width: 100%;
+}
+
+footer{
+    background-color: #967E76;
+    min-height: 7vh;
+}
+
+footer a{
+    color: #FFFFFF;
+}
+
+footer a:hover{
+    color: black;
+}
+.card{
+    background-color: #B7C4CF !important;
+    max-width: 70vw;
+}
+.card-body{
+    height: 100%;
+}
+.filtros{
+    min-height: 80vh;
+    min-width: 15vw;
+    background-color: #D7C0AE;
+
+}
+form{
+    width: 100%;
+}
+.inputSearch{
+    width: 90%;
+    height: 2rem;
+    padding: .5rem;
+    border-radius: 1rem;
+    border-color: black;
+}
+
+.a{
+    background-color: #D7C0AE;
+}
+
+.bienvenida{
+    background-color:#967E76;
+    border-radius: 1rem;
+    padding:1rem;
+    font-weight: bold;
+    font-size: 3rem;
+    max-width: 26rem;
+    box-shadow: 3px 3px ;
+    opacity: 0.8;
+    display: flex;
+    justify-content: center;
+}
+
+.bienvenida2{
+    background-color:#967E76;
+    border-radius: 1rem;
+    padding:1rem;
+    font-weight: bold;
+    font-size: 2rem;
+    max-width: 18rem;
+    box-shadow: 3px 3px ;
+    opacity: 0.8;
+  
+}
+
+.imagenCarousel{
+    opacity: 0.8;
+    max-height: 40rem;
+}
+
+.ultimosProductos{
+    
+   
+    border-radius: 1rem;
+    padding-top: 1rem;
+    padding-bottom: .5rem;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+.productoStock{
+    font-size: 2rem;
+    text-decoration: none;
+    font-weight: bolder;
+    color: #967E76;
+    background-color:#B7C4CF;
+    padding: .5rem;
+    border-radius: 1rem;
+    
+}
+.productoStock:hover{
+    color: red;
+}
+
+.cartaBody{
+    border: #967E76 solid 1px;
+    border-radius: 1rem;
+    margin: .5rem;
+}
+
+
